@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import gnansumkbn from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-gnansumkbn@deno/mod.js';
+import gnansumkbn from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-gnansumkbn@v0.1.0-deno/mod.js';
 ```
 
 #### gnansumkbn( arrays )
@@ -91,7 +91,7 @@ The function has the following parameters:
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-discrete-uniform@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@deno/mod.js';
-import gnansumkbn from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-gnansumkbn@deno/mod.js';
+import gnansumkbn from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-gnansumkbn@v0.1.0-deno/mod.js';
 
 var opts = {
     'dtype': 'generic'
