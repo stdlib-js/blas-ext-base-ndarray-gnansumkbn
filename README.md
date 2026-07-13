@@ -163,6 +163,11 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
+## License
+
+See [LICENSE][stdlib-license].
+
+
 ## Copyright
 
 Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
@@ -208,6 +213,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [esm-url]: https://github.com/stdlib-js/blas-ext-base-ndarray-gnansumkbn/tree/esm
 [esm-readme]: https://github.com/stdlib-js/blas-ext-base-ndarray-gnansumkbn/blob/esm/README.md
 [branches-url]: https://github.com/stdlib-js/blas-ext-base-ndarray-gnansumkbn/blob/main/branches.md
+
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/blas-ext-base-ndarray-gnansumkbn/main/LICENSE
 
 [@neumaier:1974a]: https://doi.org/10.1002/zamm.19740540106
 
